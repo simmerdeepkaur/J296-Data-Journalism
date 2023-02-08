@@ -30,10 +30,12 @@ code
 ```
 
 *Image from URL*
-!['Peonies bouquet', 'pink peonies in a bouquet']
+
+!['Peonies bouquet','pink peonies in a bouquet']
 (https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
 
-!['Peonies bouquet', 'pink peonies in a bouquet'](/!['Peonies bouquet', 'pink peonies in a bouquet']
+!['Peonies bouquet', 'pink peonies in a bouquet'] (/Psilocybe semilanceata.jpg)
+
 *This is a link* <br>
 [Google](https://www.google.com/)
 
